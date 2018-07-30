@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="dubbo-helloword-consumer:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/dubbo_helloword_consumer_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="dubbo-helloword-consumer/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

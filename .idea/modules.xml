@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-helloword-consumer/dubbo-helloword-consumer.iml" filepath="$PROJECT_DIR$/dubbo-helloword-consumer/dubbo-helloword-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-helloword-entity/dubbo-helloword-entity.iml" filepath="$PROJECT_DIR$/dubbo-helloword-entity/dubbo-helloword-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-helloword-interface/dubbo-helloword-interface.iml" filepath="$PROJECT_DIR$/dubbo-helloword-interface/dubbo-helloword-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-helloword-master.iml" filepath="$PROJECT_DIR$/dubbo-helloword-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-helloword-provider/dubbo-helloword-provider.iml" filepath="$PROJECT_DIR$/dubbo-helloword-provider/dubbo-helloword-provider.iml" />
+    </modules>
+  </component>
+</project>

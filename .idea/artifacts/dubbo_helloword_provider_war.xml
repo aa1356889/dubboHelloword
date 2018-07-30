@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dubbo-helloword-provider:war">
+    <output-path>$PROJECT_DIR$/dubbo-helloword-provider/target</output-path>
+    <root id="archive" name="dubbo-helloword-provider-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dubbo-helloword-provider:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-helloword-consumer" />
+        <module name="dubbo-helloword-entity" />
+        <module name="dubbo-helloword-interface" />
+        <module name="dubbo-helloword-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-helloword-consumer" target="1.7" />
+      <module name="dubbo-helloword-entity" target="1.5" />
+      <module name="dubbo-helloword-interface" target="1.5" />
+      <module name="dubbo-helloword-master" target="1.5" />
+      <module name="dubbo-helloword-provider" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
